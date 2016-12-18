@@ -1,1 +1,1 @@
-console.log('hola mundo')
+//aqui va la conexion a la bd mongose
